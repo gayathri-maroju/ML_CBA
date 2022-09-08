@@ -9,3 +9,4 @@ scipy
 stats
 pickle
 streamlit
+joblib
