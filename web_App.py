@@ -1,5 +1,6 @@
 # importing necessary libraries
 import joblib
+import pandas as pd
 import streamlit as st
 
 #load the model

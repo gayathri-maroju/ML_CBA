@@ -3,10 +3,8 @@ numpy
 matplotlib
 seaborn
 datetime
-date
 sklearn
 scipy
 stats
-pickle
 streamlit
 joblib
