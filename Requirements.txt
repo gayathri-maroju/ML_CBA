@@ -1,8 +1,8 @@
-pandas
 numpy
-matplotlib
+pandas
 seaborn
 datetime
+matplotlib
 sklearn
 scipy
 stats
