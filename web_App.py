@@ -1,7 +1,8 @@
 # importing necessary libraries
+import joblib
 import pandas as pd
 import streamlit as st
-import joblib
+
 
 #load the model
 KMeansCls = joblib.load('cluster.pkl')
